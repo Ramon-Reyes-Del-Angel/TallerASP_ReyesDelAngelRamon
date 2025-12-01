@@ -44,21 +44,37 @@ Interfaz responsiva con Bootstrap para adaptarse a móviles y escritorio.
 El proyecto sigue el patrón Modelo-Vista-Controlador (MVC) de ASP.NET Core:
 
 ProyectoASPNetCore/
+
 │
+
 ├── Controllers/       # Controladores MVC que manejan la lógica de negocio
+
 ├── Models/            # Modelos de datos (TaskItem, IdentityUser)
+
 ├── Views/             # Vistas Razor para presentación de la UI
+
 │   ├── Tasks/
+
 │   │   ├── Create.cshtml
+
 │   │   ├── Edit.cshtml
+
 │   │   ├── Index.cshtml
+
 │   │   └── _TaskCard.cshtml
+
 ├── wwwroot/           # Archivos estáticos (CSS, JS, librerías externas)
+
 │   ├── css/
+
 │   ├── js/
+
 │   └── lib/
+
 ├── appsettings.json   # Configuración de la aplicación (cadena de conexión, logging)
+
 ├── Program.cs         # Configuración y arranque de la aplicación
+
 └── README.md          # Documentación del proyecto
 
 ## Tecnologías utilizadas
