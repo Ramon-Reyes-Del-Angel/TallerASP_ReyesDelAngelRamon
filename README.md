@@ -77,7 +77,7 @@ jQuery Validation – Validación de formularios en cliente
 
 ## Instrucciones para ejecutar el proyecto
 ### 1. Clonar el repositorio
-git clone https://github.com/usuario/nombre-del-repositorio.git
+git clone https://github.com/Ramon-Reyes-Del-Angel/TallerASP_ReyesDelAngelRamon.git
 cd nombre-del-repositorio
 
 ### 2. Abrir el proyecto
